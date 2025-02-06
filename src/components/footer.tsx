@@ -83,11 +83,10 @@ const Footer = async () => {
       </div>
 
       <div className="mt-[17px] w-full items-center justify-center gap-[5px] text-center text-xs font-medium uppercase leading-[17.28px] tracking-[0.72px] text-[#828180] opacity-100 sm:flex">
-       
         <p>
           • Development by
           <a
-            href="https://www.victorwilliams.me"
+            href="https://vikram-portfolio-azure.vercel.app/"
             target="_blank"
             className="mx-[5px] cursor-pointer !text-white underline underline-offset-2 transition-all duration-300 hover:!text-inherit hover:no-underline"
           >
