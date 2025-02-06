@@ -91,7 +91,7 @@ const Footer = async () => {
             target="_blank"
             className="mx-[5px] cursor-pointer !text-white underline underline-offset-2 transition-all duration-300 hover:!text-inherit hover:no-underline"
           >
-            Vikram Chavan
+            Vikram Chouhan
           </a>
           — @2025, SYNTHETIX
         </p>
